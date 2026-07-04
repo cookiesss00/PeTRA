@@ -9,9 +9,6 @@ PeTRA is an Android-based menstrual health tracking application designed to prov
 *   **Personalized Mood Booster:** A logic-based recommendation engine that suggests wellness tips based on daily mood and flow intensity logs[cite: 1].
 *   **Diary Integration:** A dedicated space for daily reflections, lifestyle factors, and symptom tracking[cite: 1].
 
-## 📱 App Preview
-
-![PeTRA App UI](watermarked_img_8046280146501444369.png)
 
 ## 🛠 Tech Stack
 
@@ -21,9 +18,9 @@ PeTRA is an Android-based menstrual health tracking application designed to prov
 
 ## 👥 Team
 
-*   **Balqis binti Abd. Halim** (Lead Android Developer)
-*   **Angela Joanes** (UI/UX & Dashboard)[cite: 1]
-*   **Nur Afiqah Syafinas binti Abu Samah** (Authentication & Settings)[cite: 1]
+*   **Balqis binti Abd. Halim** (Leader: Developer)
+*   **Angela Joanes** (Developer)
+*   **Nur Afiqah Syafinas binti Abu Samah** (Developer)
 
 ## 📝 License
 This project is open-source. Please refer to the documentation for usage guidelines.
